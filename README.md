@@ -1,0 +1,2 @@
+# Python_GUI_exercise
+用來記錄自己練習python的GUI介面
